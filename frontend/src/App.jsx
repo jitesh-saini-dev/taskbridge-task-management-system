@@ -114,7 +114,7 @@ const App = () => {
         <header className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-8 pb-4 border-b border-stone-200/80">
           <div>
             <h1 className="text-2xl font-extrabold text-stone-800 tracking-tight">
-              Good morning 👋
+              Hello 👋
             </h1>
             <p className="text-xs text-stone-500 mt-1">
               Here's what's happening with your tasks.
